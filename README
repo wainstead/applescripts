@@ -1,0 +1,10 @@
+A handful of AppleScript scripts I wrote while working for
+MyPhotoAlbum.com from 2004-2010.
+
+Notable is "send screencap to torque," which I used to share screen
+captures with coworkers; after doing Command-Shift-4 and copying part
+of a screen or a window, I would run this script to rename the file,
+scp it to a server, and put the URL to the image in the Clipboard. I
+could share an image with a coworker in a few seconds.
+
+The other scripts might not work but contain the kernels of ideas.
